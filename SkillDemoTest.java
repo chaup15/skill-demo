@@ -4,6 +4,6 @@ import org.junit.*;
 public class SkillDemoTest {
     @Test
     public void evenTest(){
-        assertEquals(true, SkillDemo.evenNum(3)); //Failing test
+        assertEquals(true, SkillDemo.evenNum(2)); //Test that passes
     }
 }
